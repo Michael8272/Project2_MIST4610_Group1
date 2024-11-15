@@ -8,8 +8,12 @@ Group Members:
 4. Naysa Rokkala [@naysarokk](url)
 
 # Dataset Description:
+https://catalog.data.gov/dataset/air-quality
 
 # Our 2 Questions and Why they are Important:
+Questions.
+1. How do the average levels of fine particulate matter (PM 2.5) vary across different geographic areas over time?
+2. Is there a relationship between specific emission types (e.g., SO2 emissions) and air quality indicators like PM 2.5 levels across different geographic areas?
 
 # Manipulations Applied as a Part of our Analysis:
 
@@ -17,8 +21,6 @@ Group Members:
 
 # Tableau Packaged Workbook:
 
-https://catalog.data.gov/dataset/air-quality
 
-Questions.
-1. How do the average levels of fine particulate matter (PM 2.5) vary across different geographic areas over time?
-2. Is there a relationship between specific emission types (e.g., SO2 emissions) and air quality indicators like PM 2.5 levels across different geographic areas?
+
+
