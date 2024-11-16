@@ -24,7 +24,11 @@ This question is important as it investigates the causal or correlative factors 
 
 # Analysis and Results:
 1. How do the average levels of fine particulate matter (PM 2.5) vary across different geographic areas over time?
+
 ![Fine Particles Over Time by Borough](https://github.com/user-attachments/assets/cff11d21-d88c-45e0-a5b4-f398577c1cf7)
+
+Analysis: 
+New York City can be divided into five major governmental districts (AKA boroughs). This visualization displays ___
 
 # Tableau Packaged Workbook:
 
