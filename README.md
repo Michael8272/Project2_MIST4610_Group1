@@ -21,6 +21,8 @@ This question is critical due to the significant social and health implications 
 This question is important as it investigates the causal or correlative factors affecting air quality, particularly the role of specific emissions like sulfur dioxide (SO2). SO2 is a precursor to secondary particulate matter, such as PM 2.5, which exacerbates air quality issues. Exploring this relationship can inform policy and regulatory frameworks, guiding industries to adopt cleaner technologies or reduce emissions. This has significant economic implications, as improving air quality can reduce public health expenditures and mitigate the long-term costs of environmental degradation. Additionally, it aligns with global sustainability goals, fostering a transition to cleaner energy sources and promoting environmental stewardship. The dataset is well-suited for this analysis, as it includes detailed emissions data (e.g., SO2) and air quality measurements (e.g., PM 2.5), categorized by geographic areas and time periods, enabling the study of spatial and temporal patterns.
 
 # Manipulations Applied as a Part of our Analysis:
+1. 
+![Fine Particles Over Time by Borough](https://github.com/user-attachments/assets/cff11d21-d88c-45e0-a5b4-f398577c1cf7)
 
 # Analysis and Results:
 
