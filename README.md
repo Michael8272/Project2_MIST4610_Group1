@@ -21,6 +21,9 @@ This question is critical due to the significant social and health implications 
 This question is important as it investigates the causal or correlative factors affecting air quality, particularly the role of specific emissions like sulfur dioxide (SO2). SO2 is a precursor to secondary particulate matter, such as PM 2.5, which exacerbates air quality issues. Exploring this relationship can inform policy and regulatory frameworks, guiding industries to adopt cleaner technologies or reduce emissions. This has significant economic implications, as improving air quality can reduce public health expenditures and mitigate the long-term costs of environmental degradation. Additionally, it aligns with global sustainability goals, fostering a transition to cleaner energy sources and promoting environmental stewardship. The dataset is well-suited for this analysis, as it includes detailed emissions data (e.g., SO2) and air quality measurements (e.g., PM 2.5), categorized by geographic areas and time periods, enabling the study of spatial and temporal patterns.
 
 # Manipulations Applied as a Part of our Analysis:
+1. How do the average levels of fine particulate matter (PM 2.5) vary across different geographic areas over time?
+Manipulations: Due to the extensive air quality studies conducted across various parts of NYC, several filters were applied to ensure the data was consistent and comparable across districts. One key filter included selecting only studies that calculated the annual average micrograms per cubic meter, excluding seasonal studies that could skew the results by focusing on data from only a few months. Additionally, the data was restricted to borough-level data and focused exclusively on PM2.5 levels, ignoring other forms of pollution to maintain a clear and specific scope.
+
 
 # Analysis and Results:
 1. How do the average levels of fine particulate matter (PM 2.5) vary across different geographic areas over time?
