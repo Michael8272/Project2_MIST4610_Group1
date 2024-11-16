@@ -27,8 +27,7 @@ This question is important as it investigates the causal or correlative factors 
 
 ![Fine Particles Over Time by Borough](https://github.com/user-attachments/assets/cff11d21-d88c-45e0-a5b4-f398577c1cf7)
 
-Analysis: 
-New York City can be divided into five major governmental districts (AKA boroughs). This visualization displays ___
+Analysis: New York City can be divided into five major governmental districts (AKA boroughs). This visualization displays the fine particulate matter pollution in the five boroughs of NYC by measuring the average micrograms per cubic meter of air. The overall trend shows that from 2008 to 2022, the pollution levels in all of the boroughs have been steadily decreasing. Manhattan consistently experienced the highest levels of pollution during this period, while Staten Island enjoyed the cleanest air. The average levels of pollution have decreased by 43.6% in Queens, 44.4% in Manhattan, 44.8% in Brooklyn, 45% in The Bronx, and 46.9% in Staten Island. These percentage decreases are impressive and all relatively close to one another, showing that the general efforts to decrease pollution in NYC have been consistent throughout the city. Finish rest later...
 
 # Tableau Packaged Workbook:
 
