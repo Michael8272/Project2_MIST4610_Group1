@@ -22,6 +22,7 @@ This question is important as it investigates the causal or correlative factors 
 
 # Manipulations Applied as a Part of our Analysis:
 1. How do the average levels of fine particulate matter (PM 2.5) vary across different geographic areas over time?
+
 Manipulations: Due to the extensive air quality studies conducted across various parts of NYC, several filters were applied to ensure the data was consistent and comparable across districts. One key filter included selecting only studies that calculated the annual average micrograms per cubic meter, excluding seasonal studies that could skew the results by focusing on data from only a few months. Additionally, the data was restricted to borough-level data and focused exclusively on PM2.5 levels, ignoring other forms of pollution to maintain a clear and specific scope.
 
 
