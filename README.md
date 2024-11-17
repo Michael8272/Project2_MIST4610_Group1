@@ -38,6 +38,12 @@ Analysis: New York City can be divided into five major governmental districts (A
 <img width="1438" alt="Screenshot 2024-11-17 at 12 46 33 PM" src="https://github.com/user-attachments/assets/c692ff2f-83ce-4270-8bc9-8cbf27abf5a1">
 
 Analysis:
+  This model visualizes the link between particular emission types, including sulfur dioxide (SO2) emissions, and air quality markers, like PM 2.5 levels, in different regions of the Bronx, Brooklyn, Manhattan, Queens, and Staten Island boroughs of New York City. The goal of the investigation is to comprehend how various emission sources affect the general quality of the air in various boroughs.
+  The illustration makes it clear that some boroughs have higher SO2 emissions, which are associated with higher PM 2.5 levels. For example, SO2 emissions in Manhattan are noticeably elevated, which is consistent with elevated PM 2.5 levels. This trend suggests that there may be a connection between areas with higher levels of industrial or traffic-related activity and lower air quality. Boroughs with fewer industrial operations, like as Staten Island, on the other hand, typically have lower emissions and better air quality indicators.
+  We take into account the environmental and spatial characteristics unique to each borough in order to understand these results. Densely populated and heavily traveled boroughs, like Manhattan and Brooklyn, are more likely to have significant emissions, which in turn worsen air quality problems. This association supports the idea that the air quality is worse in metropolitan areas with higher levels of anthropogenic activity.Furthermore, these trends have important ramifications for policy and public health. Vulnerable people are disproportionately affected by elevated PM 2.5 levels, which provide serious health hazards, especially for respiratory and cardiovascular conditions. Identifying the sources of emissions in high-density regions can assist focus efforts on lowering emissions and managing air quality better.
+  In conclusion, the data shows a direct correlation between SO2 emissions and PM 2.5 levels, with higher pollution levels found in several boroughs, namely Manhattan and Brooklyn. In order to lessen the detrimental effects of pollution on community health, this correlation highlights the necessity of focused interventions, more stringent environmental laws, and sustainable urban development.
+
+
 
 
 # Tableau Packaged Workbook:
