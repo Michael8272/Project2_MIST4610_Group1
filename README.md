@@ -35,6 +35,10 @@ Analysis: New York City can be divided into five major governmental districts (A
 
 2. Is there a relationship between specific emission types (e.g., SO2 emissions) and air quality indicators like PM 2.5 levels across different geographic areas?
 
+<img width="1438" alt="Screenshot 2024-11-17 at 12 46 33 PM" src="https://github.com/user-attachments/assets/c692ff2f-83ce-4270-8bc9-8cbf27abf5a1">
+
+Analysis:
+
 
 # Tableau Packaged Workbook:
 
