@@ -35,7 +35,8 @@ Analysis: New York City can be divided into five major governmental districts (A
 
 2. Is there a relationship between specific emission types (e.g., SO2 emissions) and air quality indicators like PM 2.5 levels across different geographic areas?
 
-<img width="1438" alt="Screenshot 2024-11-17 at 12 46 33 PM" src="https://github.com/user-attachments/assets/c692ff2f-83ce-4270-8bc9-8cbf27abf5a1">
+<img width="1439" alt="Screenshot 2024-11-26 at 10 41 34 PM" src="https://github.com/user-attachments/assets/44160bbf-4a7f-4b1e-bb8e-f32ad55d15b5">
+
 
 Analysis:
   This model visualizes the link between particular emission types, including sulfur dioxide (SO2) emissions, and air quality markers, like PM 2.5 levels, in different regions of the Bronx, Brooklyn, Manhattan, Queens, and Staten Island boroughs of New York City. The goal of the investigation is to comprehend how various emission sources affect the general quality of the air in various boroughs.
